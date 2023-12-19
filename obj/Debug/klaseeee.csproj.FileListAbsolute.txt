@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\klaseeee\obj\Debug\klaseeee.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\klaseeee\obj\Debug\klaseeee.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\klaseeee\obj\Debug\klaseeee.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\klaseeee\bin\Debug\klaseeee.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\klaseeee\bin\Debug\klaseeee.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\klaseeee\bin\Debug\klaseeee.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\klaseeee\obj\Debug\klaseeee.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\klaseeee\obj\Debug\klaseeee.pdb
